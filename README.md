@@ -1,3 +1,5 @@
+<p align="center"><a href="https://github.com/Nivedpv2004"><img src="https://user-images.githubusercontent.com/41234408/101987297-4473fb00-3cb9-11eb-9675-289ada4eef7e.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 <h1 align="center">Hi 👋, I'm NIVED P V</h1>
 <h3 align="center">B Tech student from India</h3>
 
