@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm NIVED P V</h1>
 <h3 align="center">B Tech student from India</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nivedpv2004" alt="nivedpv2004" /></a> </p>
-
 - 🌱 I’m currently learning **Embedded Development**
 
 - 📫 How to reach me **nivedpv2004@gmail.com**
@@ -21,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivedpv2004&show_icons=true&locale=en" alt="nivedpv2004" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedpv2004&" alt="nivedpv2004" /></p>
-
