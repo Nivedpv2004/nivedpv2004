@@ -19,5 +19,6 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nivedpv2004&show_icons=true&locale=en&layout=compact" alt="nivedpv2004" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nivedpv2004&show_icons=true&locale=en" alt="nivedpv2004" /></p>
- <p align="center"><a href="https://github.com/Nivedpv2004"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
+
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nivedpv2004&" alt="nivedpv2004" /></p>
+ <p align="center"><a href="https://github.com/Nivedpv2004"><img src="https://user-images.githubusercontent.com/41234408/101987287-302ffe00-3cb9-11eb-8510-3d08f56bea27.gif" alt="Animated footer bars" width="100%"/></a></p>
