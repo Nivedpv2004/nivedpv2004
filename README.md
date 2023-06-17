@@ -3,6 +3,8 @@
 <h1 align="center">Hi 👋, I'm NIVED P V</h1>
 <h3 align="center">B Tech student from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nivedpv2004&label=Profile%20views&color=0e75b6&style=flat" alt="Nivedpv2004" /> </p>
+
 - 🌱 I’m currently learning **Embedded Development**
 
 - 📫 How to reach me **nivedpv2004@gmail.com**
